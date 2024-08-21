@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vip\\source\\repos\\JWT_ALL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF0CECF-F2B2-4D1E-9A30-A9E92809DBFA}|JWT_ALL\\JWT_ALL.csproj|c:\\users\\vip\\source\\repos\\jwt_all\\jwt_all\\data\\model\\addrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF0CECF-F2B2-4D1E-9A30-A9E92809DBFA}|JWT_ALL\\JWT_ALL.csproj|solutionrelative:jwt_all\\data\\model\\addrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF0CECF-F2B2-4D1E-9A30-A9E92809DBFA}|JWT_ALL\\JWT_ALL.csproj|c:\\users\\vip\\source\\repos\\jwt_all\\jwt_all\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF0CECF-F2B2-4D1E-9A30-A9E92809DBFA}|JWT_ALL\\JWT_ALL.csproj|solutionrelative:jwt_all\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF0CECF-F2B2-4D1E-9A30-A9E92809DBFA}|JWT_ALL\\JWT_ALL.csproj|c:\\users\\vip\\source\\repos\\jwt_all\\jwt_all\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF0CECF-F2B2-4D1E-9A30-A9E92809DBFA}|JWT_ALL\\JWT_ALL.csproj|solutionrelative:jwt_all\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF0CECF-F2B2-4D1E-9A30-A9E92809DBFA}|JWT_ALL\\JWT_ALL.csproj|c:\\users\\vip\\source\\repos\\jwt_all\\jwt_all\\controllers\\securescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF0CECF-F2B2-4D1E-9A30-A9E92809DBFA}|JWT_ALL\\JWT_ALL.csproj|solutionrelative:jwt_all\\controllers\\securescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF0CECF-F2B2-4D1E-9A30-A9E92809DBFA}|JWT_ALL\\JWT_ALL.csproj|c:\\users\\vip\\source\\repos\\jwt_all\\jwt_all\\services\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF0CECF-F2B2-4D1E-9A30-A9E92809DBFA}|JWT_ALL\\JWT_ALL.csproj|solutionrelative:jwt_all\\services\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF0CECF-F2B2-4D1E-9A30-A9E92809DBFA}|JWT_ALL\\JWT_ALL.csproj|c:\\users\\vip\\source\\repos\\jwt_all\\jwt_all\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF0CECF-F2B2-4D1E-9A30-A9E92809DBFA}|JWT_ALL\\JWT_ALL.csproj|solutionrelative:jwt_all\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF0CECF-F2B2-4D1E-9A30-A9E92809DBFA}|JWT_ALL\\JWT_ALL.csproj|c:\\users\\vip\\source\\repos\\jwt_all\\jwt_all\\migrations\\20240817072117_addroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF0CECF-F2B2-4D1E-9A30-A9E92809DBFA}|JWT_ALL\\JWT_ALL.csproj|solutionrelative:jwt_all\\migrations\\20240817072117_addroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddRole.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\JWT_ALL\\JWT_ALL\\Data\\Model\\AddRole.cs",
+              "RelativeDocumentMoniker": "JWT_ALL\\Data\\Model\\AddRole.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\JWT_ALL\\JWT_ALL\\Data\\Model\\AddRole.cs",
+              "RelativeToolTip": "JWT_ALL\\Data\\Model\\AddRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T15:10:54.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240817072117_AddRoles.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\JWT_ALL\\JWT_ALL\\Migrations\\20240817072117_AddRoles.cs",
+              "RelativeDocumentMoniker": "JWT_ALL\\Migrations\\20240817072117_AddRoles.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\JWT_ALL\\JWT_ALL\\Migrations\\20240817072117_AddRoles.cs",
+              "RelativeToolTip": "JWT_ALL\\Migrations\\20240817072117_AddRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:43:19.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\JWT_ALL\\JWT_ALL\\Program.cs",
+              "RelativeDocumentMoniker": "JWT_ALL\\Program.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\JWT_ALL\\JWT_ALL\\Program.cs",
+              "RelativeToolTip": "JWT_ALL\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:17:01.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\JWT_ALL\\JWT_ALL\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JWT_ALL\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\JWT_ALL\\JWT_ALL\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JWT_ALL\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAQwEMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:50:36.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuth.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\JWT_ALL\\JWT_ALL\\Services\\IAuth.cs",
+              "RelativeDocumentMoniker": "JWT_ALL\\Services\\IAuth.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\JWT_ALL\\JWT_ALL\\Services\\IAuth.cs",
+              "RelativeToolTip": "JWT_ALL\\Services\\IAuth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:49:27.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\JWT_ALL\\JWT_ALL\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "JWT_ALL\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\JWT_ALL\\JWT_ALL\\Services\\AuthService.cs",
+              "RelativeToolTip": "JWT_ALL\\Services\\AuthService.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAAAHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:49:47.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SecuresController.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\JWT_ALL\\JWT_ALL\\Controllers\\SecuresController.cs",
+              "RelativeDocumentMoniker": "JWT_ALL\\Controllers\\SecuresController.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\JWT_ALL\\JWT_ALL\\Controllers\\SecuresController.cs",
+              "RelativeToolTip": "JWT_ALL\\Controllers\\SecuresController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:46:26.046Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
